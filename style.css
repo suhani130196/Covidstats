@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, #a3bded 0%, #6991c7 100%);
+}
+
+.col-md-8{
+    margin: 20px !important;
+}
